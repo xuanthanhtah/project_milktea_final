@@ -1,0 +1,96 @@
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+E:\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+E:\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+E:\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+E:\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+E:\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+E:\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+E:\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\HÙng\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
