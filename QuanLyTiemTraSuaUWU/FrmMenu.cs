@@ -210,7 +210,7 @@ namespace QuanLyTiemTraSuaUWU
                 loadDGV();
 
                 loadform();
-                MessageBox.Show($"thêm món ăn {cTHD.TenMonAn} vào hóa đơn thành công!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show($"thêm món ăn {cTHD.TenMonAn} vào hóa đơn {cTHD.MaHoaDon} thành công!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
 
         }
